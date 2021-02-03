@@ -1,3 +1,4 @@
+import '../Styles/Section.css';
 import React from "react";
 
 function section() {

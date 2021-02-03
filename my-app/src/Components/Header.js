@@ -1,3 +1,4 @@
+import "../Styles/Header.css";
 import React from "react";
 
 
@@ -6,7 +7,7 @@ function header(){
     //JSX //Display one ele at a time 
     //multiple are wrapped in empty div //semantic html efficient
     <>
-    <header className="">
+    <header className="header">
         <h1>Welcome</h1>
         <h2>Marvin Lara</h2>
     </header>
